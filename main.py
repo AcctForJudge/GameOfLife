@@ -7,7 +7,7 @@ pygame.init()
 n = 65
 c = 0.5
 
-BACKGROUND = (150,55,155)
+BACKGROUND = (100,100,150)
 
 size = w, h = 192 * 7, 108 * 7
 centre = (w / 2, h / 2)
